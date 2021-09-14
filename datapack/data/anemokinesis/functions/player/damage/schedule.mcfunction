@@ -1,0 +1,1 @@
+schedule function anemokinesis:player/damage/next_tick 1t append

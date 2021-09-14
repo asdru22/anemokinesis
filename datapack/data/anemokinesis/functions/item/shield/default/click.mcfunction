@@ -1,0 +1,1 @@
+execute if predicate anemokinesis:item/shield/fluorite run function anemokinesis:item/shield/default/click/fluorite

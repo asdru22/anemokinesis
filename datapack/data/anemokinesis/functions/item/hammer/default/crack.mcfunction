@@ -1,0 +1,6 @@
+execute if data entity @s ArmorItems[3].tag.anemokinesis{id:"anemokinesis:ancient_geode"} run loot replace entity @s weapon.mainhand loot anemokinesis:technical/hammer/ancient
+execute if data entity @s ArmorItems[3].tag.anemokinesis{id:"anemokinesis:sturdy_geode"} run loot replace entity @s weapon.mainhand loot anemokinesis:technical/hammer/sturdy
+execute if data entity @s ArmorItems[3].tag.anemokinesis{id:"anemokinesis:dense_geode"} run loot replace entity @s weapon.mainhand loot anemokinesis:technical/hammer/dense
+execute if data entity @s ArmorItems[3].tag.anemokinesis{id:"anemokinesis:damp_geode"} run loot replace entity @s weapon.mainhand loot anemokinesis:technical/hammer/damp
+execute if data entity @s ArmorItems[3].tag.anemokinesis{id:"anemokinesis:dark_geode"} run loot replace entity @s weapon.mainhand loot anemokinesis:technical/hammer/dark
+execute if data entity @s ArmorItems[3].tag.anemokinesis{id:"anemokinesis:eerie_geode"} run loot replace entity @s weapon.mainhand loot anemokinesis:technical/hammer/eerie

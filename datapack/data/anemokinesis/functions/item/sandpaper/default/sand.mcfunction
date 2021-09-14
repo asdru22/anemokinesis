@@ -1,0 +1,16 @@
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:ametrine_crystal"} run loot give @s loot anemokinesis:item/gem/ametrine
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:aquamarine_crystal"} run loot give @s loot anemokinesis:item/gem/aquamarine
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:black_opal_crystal"} run loot give @s loot anemokinesis:item/gem/black_opal
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:fluorite_crystal"} run loot give @s loot anemokinesis:item/gem/fluorite
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:jade_crystal"} run loot give @s loot anemokinesis:item/gem/jade
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:malachite_crystal"} run loot give @s loot anemokinesis:item/gem/malachite
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:onyx_crystal"} run loot give @s loot anemokinesis:item/gem/onyx
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:opal_crystal"} run loot give @s loot anemokinesis:item/gem/opal
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:pearl_crystal"} run loot give @s loot anemokinesis:item/gem/pearl
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:pink_diamond_crystal"} run loot give @s loot anemokinesis:item/gem/pink_diamond
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:pyrite_crystal"} run loot give @s loot anemokinesis:item/gem/pyrite
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:ruby_crystal"} run loot give @s loot anemokinesis:item/gem/ruby
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:sapphire_crystal"} run loot give @s loot anemokinesis:item/gem/sapphire
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:tanzanite_crystal"} run loot give @s loot anemokinesis:item/gem/tanzanite
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:topaz_crystal"} run loot give @s loot anemokinesis:item/gem/topaz
+execute if score $temp ane.data matches 0 store result score $temp ane.data if data storage anemokinesis:data {id:"anemokinesis:trinitite_crystal"} run loot give @s loot anemokinesis:item/gem/trinitite

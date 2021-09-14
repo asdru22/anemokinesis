@@ -1,0 +1,1 @@
+execute as @a[tag=ane.replaceSandpaper] run function anemokinesis:item/sandpaper/replace/sub

@@ -1,0 +1,2 @@
+execute if predicate anemokinesis:item/crystal run function anemokinesis:item/sandpaper/handle/crystal
+execute if predicate anemokinesis:item/one_gem run function anemokinesis:item/sandpaper/handle/gem

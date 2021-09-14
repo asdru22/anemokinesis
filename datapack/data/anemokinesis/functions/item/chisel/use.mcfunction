@@ -1,0 +1,1 @@
+execute if data storage smd:core item{tag:{smithed:{id:"anemokinesis:chisel"}}} run function anemokinesis:item/chisel/click

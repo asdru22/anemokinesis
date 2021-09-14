@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/structure_block"
+  },
+  "overrides": [
+
+    {"predicate": {"custom_model_data": 6900000},"model": "anemokinesis:item/"}
+    
+  ]
+}

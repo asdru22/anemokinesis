@@ -1,0 +1,2 @@
+execute if predicate anemokinesis:item/shield/fluorite run scoreboard players set $threshold ane.blockDmg 1024
+execute if predicate anemokinesis:item/shield/jade run scoreboard players add $threshold ane.blockDmg 3

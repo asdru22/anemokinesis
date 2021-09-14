@@ -1,0 +1,1 @@
+execute if data storage smd:core item{tag:{smithed:{id:"anemokinesis:blue_chalk"}}} run function anemokinesis:item/blue_chalk/raycast

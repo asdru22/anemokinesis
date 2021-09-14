@@ -1,0 +1,7 @@
+execute store result score $purity ane.data run data get storage anemokinesis:data item.anemokinesis.purity
+
+execute if score $purity ane.data matches 1 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.purity","with":[{"translate":"enchantment.level.1"}],"color":"gray","italic":false}]'
+execute if score $purity ane.data matches 2 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.purity","with":[{"translate":"enchantment.level.2"}],"color":"gray","italic":false}]'
+execute if score $purity ane.data matches 3 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.purity","with":[{"translate":"enchantment.level.3"}],"color":"gray","italic":false}]'
+execute if score $purity ane.data matches 4 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.purity","with":[{"translate":"enchantment.level.4"}],"color":"gray","italic":false}]'
+execute if score $purity ane.data matches 5 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.purity","with":[{"translate":"enchantment.level.5","color":"green"}],"color":"gray","italic":false}]'
