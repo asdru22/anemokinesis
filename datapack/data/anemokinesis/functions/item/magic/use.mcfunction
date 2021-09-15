@@ -1,0 +1,1 @@
+execute if data storage smd:core item{tag:{ane:{magic:{identifier:1b}}}} run function anemokinesis:item/magic/mana_check

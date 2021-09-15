@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block",
+      "nbt": "{CustomModelData:6901000}"
+    },
+    "title": {
+      "translate": "pack.anemokinesis"
+    },
+    "description": {
+      "translate": "pack.anemokinesis.desc"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:asdru",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

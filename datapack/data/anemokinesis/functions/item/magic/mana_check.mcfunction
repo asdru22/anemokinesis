@@ -1,0 +1,2 @@
+execute store result score $dummy0 ane.dummy run data get storage smd:core item.tag.ane.magic.cost 10
+execute if score @s ane.cSunDrops >= $dummy0 ane.dummy run function anemokinesis:item/magic/sufficent_mana

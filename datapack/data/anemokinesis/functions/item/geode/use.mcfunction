@@ -1,1 +1,0 @@
-execute if data storage smd:core item{tag:{smithed:{dict:["anemokinesis:geode"]}}} run function anemokinesis:item/geode/raycast

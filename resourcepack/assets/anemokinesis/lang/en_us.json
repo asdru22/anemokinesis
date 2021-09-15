@@ -1,41 +1,5 @@
 {
-    "text.anemokinesis.wither_slain": "The king of the underworld has been slain, the spirits have begun to flow naturally once more",
-    
-    "item.anemokinesis.blue_chalk": "Blue Chalk",
-    "item.anemokinesis.chisel": "Geological Chisel",
-    "item.anemokinesis.hammer": "Geological Hammer",
-    "item.anemokinesis.sandpaper": "Sandpaper",
-
-    "item.anemokinesis.aquamarine": "Aquamarine",
-    "item.anemokinesis.topaz": "Topaz",
-    "item.anemokinesis.sapphire": "Sapphire",
-    "item.anemokinesis.ruby": "Ruby",
-    "item.anemokinesis.opal": "Opal",
-    "item.anemokinesis.black_opal": "Black Opal",
-    "item.anemokinesis.tanzanite": "Tanzanite",
-    "item.anemokinesis.pearl": "Pearl",
-    "item.anemokinesis.pink_diamond": "Pink Diamond",
-    "item.anemokinesis.jade": "Jade",
-    "item.anemokinesis.pyrite": "Pyrite",
-    "item.anemokinesis.fluorite": "Fluorite",
-    "item.anemokinesis.ametrine": "Ametrine",
-    "item.anemokinesis.onyx": "Onyx",
-    "item.anemokinesis.trinitite": "Trinitite",
-    "item.anemokinesis.malachite": "Malachite",
-
-    "item.anemokinesis.crystal": "%s Crystal",
-    "item.anemokinesis.gem_shield": "%s Shield",
-
-    "item.anemokinesis.ancient_geode": "Ancient Geode",
-    "item.anemokinesis.sturdy_geode": "Sturdy Geode",
-    "item.anemokinesis.dense_geode": "Dense Geode",
-    "item.anemokinesis.damp_geode": "Damp Geode",
-    "item.anemokinesis.dark_geode": "Dark Geode",
-    "item.anemokinesis.eerie_geode": "Eerie Geode",
-
-    "quality.anemokinesis.purity": "Purity %s",
-    "quality.anemokinesis.size": "Size %s",
-
-    "death.anemokinesis.penetrate": "%s's defenses were penetrated!",
-    "death.anemokinesis.fluorite": "%s succumbed to fluorite's power!"
+    "item.anemokinesis.lightning_arcanum": "Lightning Arcanum",
+    "gui.anemokinesis.sun_drop":"\u000a",
+    "subtitles.ane.item.lightning_arcanum.use": "Lightning Arcanum discharges"
 }

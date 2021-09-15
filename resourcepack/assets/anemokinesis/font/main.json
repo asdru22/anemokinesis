@@ -1,0 +1,13 @@
+{
+  "providers":[
+    {
+      "type":"bitmap",
+      "file":"anemokinesis:gui/sun_drop.png",
+      "ascent":10,
+      "height":13,
+      "chars":[
+        "\u000a"
+      ]
+    }
+  ]
+}

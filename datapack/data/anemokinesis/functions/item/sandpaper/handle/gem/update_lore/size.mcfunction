@@ -1,7 +1,0 @@
-execute store result score $size ane.data run data get storage anemokinesis:data item.anemokinesis.size
-
-execute if score $size ane.data matches 1 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.size","with":[{"translate":"enchantment.level.1","color":"red"}],"color":"gray","italic":false}]'
-execute if score $size ane.data matches 2 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.size","with":[{"translate":"enchantment.level.2"}],"color":"gray","italic":false}]'
-execute if score $size ane.data matches 3 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.size","with":[{"translate":"enchantment.level.3"}],"color":"gray","italic":false}]'
-execute if score $size ane.data matches 4 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.size","with":[{"translate":"enchantment.level.4"}],"color":"gray","italic":false}]'
-execute if score $size ane.data matches 5 run data modify storage anemokinesis:data item.display.Lore prepend value '[{"translate":"quality.anemokinesis.size","with":[{"translate":"enchantment.level.5"}],"color":"gray","italic":false}]'

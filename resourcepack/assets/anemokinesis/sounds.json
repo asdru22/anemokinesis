@@ -1,0 +1,26 @@
+{
+    "item.lightning_arcanum.use": {
+      "sounds": [{
+        "name": "anemokinesis:item/lightning_arcanum/use",
+        "stream": true
+      }],
+      "subtitle": "subtitles.ane.item.lightning_arcanum.use",
+      "category": "master"
+    },
+    "entity.yeti.when_hit": {
+      "sounds": [{
+        "name": "acbag:entity/yeti/when_hit",
+        "stream": true
+      }],
+      "subtitle": "subtitles.acbag.entity.yeti.when_hit",
+      "category": "master"
+    },
+    "entity.sea_goblin.when_hit": {
+      "sounds": [{
+        "name": "acbag:entity/sea_goblin/when_hit",
+        "stream": true
+      }],
+      "subtitle": "subtitles.acbag.entity.sea_goblin.when_hit",
+      "category": "master"
+    }
+}

@@ -1,1 +1,11 @@
 scoreboard objectives add ane.dummy dummy
+scoreboard objectives add ane.cSunDrops dummy
+scoreboard objectives add ane.mSunDrops dummy
+scoreboard objectives add ane.pSunDrops dummy
+
+function anemokinesis:technical/second
+
+execute as @a[name=asdru] run tellraw @s [{"translate":"debug.prefix","color":"yellow","bold":true},{"text":" Reload Complete!","color":"white","bold":false}]
+
+scoreboard players set ane.const.10 ane.dummy 10
+scoreboard players set ane.const.100 ane.dummy 100
