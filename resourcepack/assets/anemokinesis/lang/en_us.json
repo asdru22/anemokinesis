@@ -1,5 +1,8 @@
 {
     "item.anemokinesis.lightning_arcanum": "Lightning Arcanum",
     "gui.anemokinesis.sun_drop":"\u000a",
-    "subtitles.ane.item.lightning_arcanum.use": "Lightning Arcanum discharges"
+    "subtitles.ane.item.lightning_arcanum.use": "Lightning Arcanum discharges",
+
+    "attribute.name.anemokinesis.magic_damage":" %s Magic Damage",
+    "attribute.name.anemokinesis.sun_drops_required":" %s Sun Drops Required"
 }
