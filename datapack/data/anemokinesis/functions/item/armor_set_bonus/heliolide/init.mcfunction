@@ -1,0 +1,3 @@
+execute if score $daytime ane.dummy matches 0..12000 if entity @s[tag=!ane.item.set_bonus.heliolide] if predicate anemokinesis:item/set_bonus/heliolide run function anemokinesis:item/armor_set_bonus/heliolide/enable
+execute unless score $daytime ane.dummy matches 0..12000 if entity @s[tag=ane.item.set_bonus.heliolide] run function anemokinesis:item/armor_set_bonus/heliolide/disable
+execute if entity @s[tag=ane.item.set_bonus.heliolide] unless predicate anemokinesis:item/set_bonus/heliolide run function anemokinesis:item/armor_set_bonus/heliolide/disable

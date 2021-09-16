@@ -1,0 +1,32 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "head": {
+          "items": [
+            "minecraft:leather_helmet"
+          ],
+          "nbt": "{smithed:{id:\"anemokinesis:verzui_helmet\"}}"
+        },
+        "chest": {
+          "items": [
+            "minecraft:leather_chestplate"
+          ],
+          "nbt": "{smithed:{id:\"anemokinesis:verzui_chestplate\"}}"
+        },
+        "legs": {"items": [
+          "minecraft:leather_leggings"
+        ],
+        "nbt": "{smithed:{id:\"anemokinesis:verzui_leggings\"}}"
+        },
+        "feet": {
+          "items": [
+            "minecraft:leather_boots"
+          ],
+          "nbt": "{smithed:{id:\"anemokinesis:verzui_boots\"}}"
+        }
+      }
+    }
+  }
+  

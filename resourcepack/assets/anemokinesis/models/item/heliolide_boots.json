@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	  "layer0": "anemokinesis:gui/negative_space",
+	  "layer1": "anemokinesis:item/heliolide_boots"
+	}
+  }

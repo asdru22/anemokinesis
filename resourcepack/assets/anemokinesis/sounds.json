@@ -22,5 +22,13 @@
       }],
       "subtitle": "subtitles.ane.block.daylight_capacitor.load",
       "category": "master"
+    },
+    "item.heliolide_armor.activate": {
+      "sounds": [{
+        "name": "anemokinesis:item/heliolide_armor/activate",
+        "stream": true
+      }],
+      "subtitle": "subtitles.ane.item.heliolide_armor.activate",
+      "category": "master"
     }
 }

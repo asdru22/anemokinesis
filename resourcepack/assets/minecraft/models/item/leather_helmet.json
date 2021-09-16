@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_helmet",
+    "layer1": "item/leather_helmet_overlay"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 6901000},"model": "anemokinesis:item/heliolide_helmet"},
+    {"predicate": {"custom_model_data": 6901001},"model": "anemokinesis:item/verzui_helmet"}
+   ]
+}
