@@ -1,1 +1,1 @@
-execute unless score @s ane.cSunDrops = @s ane.mSunDrops run function anemokinesis:player/sun_drops/get
+execute unless score @s[advancements={anemokinesis:minecraft/drink_solar_brew=true}] ane.cSunDrops = @s ane.mSunDrops run function anemokinesis:player/sun_drops/get

@@ -5,7 +5,18 @@
   },
   "overrides": [
 
-    {"predicate": {"custom_model_data": 6900000},"model": "anemokinesis:item/"}
+    {"predicate": {"custom_model_data": 6901000},"model": "anemokinesis:gui/progress_bar/0"},
+    {"predicate": {"custom_model_data": 6901001},"model": "anemokinesis:gui/progress_bar/1"},
+    {"predicate": {"custom_model_data": 6901002},"model": "anemokinesis:gui/progress_bar/2"},
+    {"predicate": {"custom_model_data": 6901003},"model": "anemokinesis:gui/progress_bar/3"},
+    {"predicate": {"custom_model_data": 6901004},"model": "anemokinesis:gui/progress_bar/4"},
+    {"predicate": {"custom_model_data": 6901005},"model": "anemokinesis:gui/progress_bar/5"},
+    {"predicate": {"custom_model_data": 6901006},"model": "anemokinesis:gui/progress_bar/6"},
+    {"predicate": {"custom_model_data": 6901007},"model": "anemokinesis:gui/progress_bar/7"},
+    {"predicate": {"custom_model_data": 6901008},"model": "anemokinesis:gui/progress_bar/8"},
+    {"predicate": {"custom_model_data": 6901009},"model": "anemokinesis:gui/progress_bar/9"},
+    {"predicate": {"custom_model_data": 6901010},"model": "anemokinesis:gui/progress_bar/10"},
+    {"predicate": {"custom_model_data": 6901011},"model": "anemokinesis:item/radiant_shard"}
     
   ]
 }

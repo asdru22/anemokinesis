@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potion",
+      "nbt": "{HideFlags:32,CustomPotionColor:16777215,CustomModelData:6901000}"
+    },
+    "title": {
+      "translate": "advancement.ane.drink_solar_brew.title",
+      "color": "white"
+    },
+    "description": {
+      "translate": "advancement.ane.drink_solar_brew.description",
+      "with": [
+        {
+          "translate": "item.anemokinesis.solar_brew"
+        }
+      ],
+      "color": "green"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:end/dragon_breath",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "nbt": "{smithed:{id:\"anemokinesis:solar_brew\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "anemokinesis:item/solar_brew",
+    "experience": 20
+  }
+}

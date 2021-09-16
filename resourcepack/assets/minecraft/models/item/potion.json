@@ -7,9 +7,9 @@
     "overrides": [
         {
           "predicate": {
-            "custom_model_data": 980005
+            "custom_model_data": 6901000
           },
-          "model": "anemokinesis:item/sandpaper"
+          "model": "anemokinesis:item/solar_brew"
         }
     ]
 }

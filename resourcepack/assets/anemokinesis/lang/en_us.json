@@ -1,8 +1,25 @@
 {
+    "pack.anemokinesis": "Anemokinesis",
+    "pack.anemokinesis.desc": "Air Dynamics",
+
     "item.anemokinesis.lightning_arcanum": "Lightning Arcanum",
+    "item.anemokinesis.solar_brew": "Solar Brew",
+    "item.anemokinesis.radiant_shard": "Radiant Shard",
+
+    "block.anemokinesis.daylight_capacitor": "Daylight Capacitor",
+    "block.anemokinesis.daylight_capacitor.gui": "\uc000\uc002\uc001%s",
+
     "gui.anemokinesis.sun_drop":"\u000a",
-    "subtitles.ane.item.lightning_arcanum.use": "Lightning Arcanum discharges",
+
+    "subtitles.ane.item.lightning_arcanum.use": "Lightning Arcanum fires",
+    "subtitles.ane.item.solar_brew.drink": "Player Radiates",
+    "subtitles.ane.block.daylight_capacitor.load": "Daylight Capacitor discharges",
 
     "attribute.name.anemokinesis.magic_damage":" %s Magic Damage",
-    "attribute.name.anemokinesis.sun_drops_required":" %s Sun Drops Required"
+    "attribute.name.anemokinesis.sun_drops_required":" %s Sun Drops Required",
+    "attribute.name.anemokinesis.max_sun_drops":" %s Max Sun Drops",
+
+    "advancement.ane.drink_solar_brew.title": "The Power of the Sun...",
+    "advancement.ane.drink_solar_brew.description": "Drink %s and unlock the ability to harness Sun Drops for magic items."
+
 }

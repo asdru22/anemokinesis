@@ -1,8 +1,8 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:structure_block",
-      "nbt": "{CustomModelData:6901000}"
+      "item": "minecraft:potion",
+      "nbt": "{HideFlags:32,CustomPotionColor:16777215,CustomModelData:6901000}"
     },
     "title": {
       "translate": "pack.anemokinesis"

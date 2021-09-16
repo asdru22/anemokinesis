@@ -1,4 +1,4 @@
-scoreboard players set .temp ane.mSunDrops 500
+scoreboard players set .temp ane.mSunDrops 1000
 scoreboard players set .temp ane.pSunDrops 2
 
 scoreboard players operation @s ane.mSunDrops = .temp ane.mSunDrops

@@ -7,20 +7,20 @@
       "subtitle": "subtitles.ane.item.lightning_arcanum.use",
       "category": "master"
     },
-    "entity.yeti.when_hit": {
+    "item.solar_brew.drink": {
       "sounds": [{
-        "name": "acbag:entity/yeti/when_hit",
+        "name": "anemokinesis:item/solar_brew/drink",
         "stream": true
       }],
-      "subtitle": "subtitles.acbag.entity.yeti.when_hit",
+      "subtitle": "subtitles.ane.item.solar_brew.drink",
       "category": "master"
     },
-    "entity.sea_goblin.when_hit": {
+    "block.daylight_capacitor.load": {
       "sounds": [{
-        "name": "acbag:entity/sea_goblin/when_hit",
+        "name": "anemokinesis:block/daylight_capacitor/load",
         "stream": true
       }],
-      "subtitle": "subtitles.acbag.entity.sea_goblin.when_hit",
+      "subtitle": "subtitles.ane.block.daylight_capacitor.load",
       "category": "master"
     }
 }
