@@ -9,3 +9,5 @@ execute store result score @s smd.data if entity @s[scores={smd.data=0}] if scor
 
 #Heliolide Shapless
 execute if data storage smd:crafter root.temp{shapeless_crafting_input:[{tag:{smithed:{id:"anemokinesis:heliolide"}}}]} run function anemokinesis:recipes/shapeless/heliolide
+
+execute store result score @s smd.data if entity @s[scores={smd.data=0}] if score count smd.data matches 4 if data storage smd:crafter root.temp{shapeless_crafting_input:[{id:"minecraft:lapis_lazuli"},{tag:{smithed:{id:"anemokinesis:radiant_shard"}}},{id:"minecraft:netherite_scrap"},{id:"minecraft:copper_ingot"}]} run loot replace block ~ ~ ~ container.16 loot anemokinesis:item/thunderite

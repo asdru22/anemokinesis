@@ -4,6 +4,7 @@
 
 
     "item.anemokinesis.armor_set_bonus":"Full Set Bonus",
+    "item.anemokinesis.ability":"Item Ability",
     "item.anemokinesis.lightning_arcanum": "Lightning Arcanum",
     "item.anemokinesis.solar_brew": "Solar Brew",
     "item.anemokinesis.radiant_shard": "Radiant Shard",
@@ -19,10 +20,12 @@
     "item.anemokinesis.heliolide_boots": "Heliolide Boots",
     "item.anemokinesis.heliolide_helmet": "Heliolide Helmet",
     "item.anemokinesis.heliolide_armor.set_bonus": "During the day, damage is increased by 10%",
+    "item.anemokinesis.solar_flare_potion": "Solar Flare Potion",
+    "item.anemokinesis.solar_flare_potion.tooltip": "Sun Kissed %s",
+    "item.anemokinesis.solar_flare_potion.tooltip2": "%s Sun Drops",  
+    "item.anemokinesis.thunderite": "Thunderite",
+    "item.anemokinesis.thunderite_sword": "Thunderite Sword",
     
-
-
-
     "block.anemokinesis.daylight_capacitor": "Daylight Capacitor",
     "block.anemokinesis.daylight_capacitor.gui": "\uc000\uc002\uc001%s",
     "block.anemokinesis.progress_bar": "Extracting %s",
@@ -33,6 +36,8 @@
     "subtitles.ane.item.solar_brew.drink": "Player Radiates",
     "subtitles.ane.block.daylight_capacitor.load": "Daylight Capacitor discharges",
     "subtitles.ane.item.heliolide_armor.activate": "Heliolide Armor activates",
+    "subtitles.ane.item.thunderite_sword.charge": "Thunderite Sword charges",
+    "subtitles.ane.item.thunderite_sword.shoot": "Thunderite Sword fires",
 
     "attribute.name.anemokinesis.magic_damage":" %s Magic Damage",
     "attribute.name.anemokinesis.sun_drops_required":" %s Sun Drops Required",

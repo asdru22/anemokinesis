@@ -1,0 +1,1 @@
+advancement revoke @s only anemokinesis:technical/player/kill

@@ -18,7 +18,8 @@
     {"predicate": {"custom_model_data": 6901010},"model": "anemokinesis:gui/progress_bar/10"},
     {"predicate": {"custom_model_data": 6901011},"model": "anemokinesis:item/radiant_shard"},
     {"predicate": {"custom_model_data": 6901012},"model": "anemokinesis:item/verzui"},
-    {"predicate": {"custom_model_data": 6901013},"model": "anemokinesis:item/heliolide"}
+    {"predicate": {"custom_model_data": 6901013},"model": "anemokinesis:item/heliolide"},
+    {"predicate": {"custom_model_data": 6901014},"model": "anemokinesis:item/thunderite"}
     
   ]
 }

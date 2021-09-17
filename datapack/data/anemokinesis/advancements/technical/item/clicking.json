@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "charge_item": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:trident",
+            "minecraft:crossbow",
+            "minecraft:bow",
+            "minecraft:shield"
+          ],
+          "nbt": "{ane:{click:1b}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "anemokinesis:item/clicking/main"
+  }
+}

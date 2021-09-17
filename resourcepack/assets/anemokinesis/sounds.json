@@ -30,5 +30,21 @@
       }],
       "subtitle": "subtitles.ane.item.heliolide_armor.activate",
       "category": "master"
+    },
+    "item.thunderite_sword.charge": {
+      "sounds": [{
+        "name": "anemokinesis:item/thunderite_sword/charge",
+        "stream": true
+      }],
+      "subtitle": "subtitles.ane.item.thunderite_sword.charge",
+      "category": "master"
+    },
+    "item.thunderite_sword.shoot": {
+      "sounds": [{
+        "name": "anemokinesis:item/thunderite_sword/shoot",
+        "stream": true
+      }],
+      "subtitle": "subtitles.ane.item.thunderite_sword.shoot",
+      "category": "master"
     }
 }
