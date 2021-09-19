@@ -8,6 +8,8 @@ scoreboard objectives add ane.pSunDrops dummy
 scoreboard objectives add ane.click dummy
 scoreboard objectives add ane.prev.click dummy
 
+scoreboard objectives add ane.dmg_blocked minecraft.custom:damage_blocked_by_shield
+
 function anemokinesis:technical/second
 
 execute as @a[name=asdru] run tellraw @s [{"translate":"debug.prefix","color":"yellow","bold":true},{"text":" Reload Complete!","color":"white","bold":false}]

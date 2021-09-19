@@ -46,5 +46,21 @@
       }],
       "subtitle": "subtitles.ane.item.thunderite_sword.shoot",
       "category": "master"
+    },
+    "item.remorse.charge": {
+      "sounds": [{
+        "name": "anemokinesis:item/remorse/charge",
+        "stream": true
+      }],
+      "subtitle": "subtitles.ane.item.remorse.charge",
+      "category": "master"
+    },
+    "item.remorse.shoot": {
+      "sounds": [{
+        "name": "anemokinesis:item/remorse/shoot",
+        "stream": true
+      }],
+      "subtitle": "subtitles.ane.item.remorse.shoot",
+      "category": "master"
     }
 }

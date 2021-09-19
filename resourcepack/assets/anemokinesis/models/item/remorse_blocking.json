@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "anemokinesis:item/thunderite_sword"
+		"layer0": "anemokinesis:item/remorse"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -19,7 +19,10 @@
     {"predicate": {"custom_model_data": 6901011},"model": "anemokinesis:item/radiant_shard"},
     {"predicate": {"custom_model_data": 6901012},"model": "anemokinesis:item/verzui"},
     {"predicate": {"custom_model_data": 6901013},"model": "anemokinesis:item/heliolide"},
-    {"predicate": {"custom_model_data": 6901014},"model": "anemokinesis:item/thunderite"}
+    {"predicate": {"custom_model_data": 6901014},"model": "anemokinesis:item/thunderite"},
+    {"predicate": {"custom_model_data": 6901015},"model": "anemokinesis:item/dragon_scale"},
+    {"predicate": {"custom_model_data": 6901016},"model": "anemokinesis:item/lightmare"},
+    {"predicate": {"custom_model_data": 6901017},"model": "anemokinesis:item/withered_bone"}
     
   ]
 }

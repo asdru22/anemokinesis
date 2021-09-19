@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:structure_block",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:6901016,display:{Name:'{\"translate\":\"item.anemokinesis.lightmare\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:lightmare\"}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

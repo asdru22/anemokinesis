@@ -25,6 +25,10 @@
     "item.anemokinesis.solar_flare_potion.tooltip2": "%s Sun Drops",  
     "item.anemokinesis.thunderite": "Thunderite",
     "item.anemokinesis.thunderite_sword": "Thunderite Sword",
+    "item.anemokinesis.dragon_scale": "Dragon Scale",
+    "item.anemokinesis.lightmare": "Lightmare",
+    "item.anemokinesis.remorse": "Remorse",
+    "item.anemokinesis.withered_bone": "Withered Bone",
     
     "block.anemokinesis.daylight_capacitor": "Daylight Capacitor",
     "block.anemokinesis.daylight_capacitor.gui": "\uc000\uc002\uc001%s",
@@ -38,6 +42,8 @@
     "subtitles.ane.item.heliolide_armor.activate": "Heliolide Armor activates",
     "subtitles.ane.item.thunderite_sword.charge": "Thunderite Sword charges",
     "subtitles.ane.item.thunderite_sword.shoot": "Thunderite Sword fires",
+    "subtitles.ane.item.remorse.charge": "Remorse charges",
+    "subtitles.ane.item.remorse.shoot": "Remorse fires",
 
     "attribute.name.anemokinesis.magic_damage":" %s Magic Damage",
     "attribute.name.anemokinesis.sun_drops_required":" %s Sun Drops Required",

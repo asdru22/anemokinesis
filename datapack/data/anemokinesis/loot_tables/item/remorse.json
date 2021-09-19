@@ -1,0 +1,53 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:shield",
+            "functions": [
+              {
+                "function": "minecraft:set_attributes",
+                "modifiers": [
+                  {
+                    "attribute": "minecraft:generic.attack_damage",
+                    "name": "",
+                    "amount": 8.5,
+                    "operation": "addition",
+                    "slot": "mainhand"
+                  },
+                  {
+                    "attribute": "minecraft:generic.attack_speed",
+                    "name": "",
+                    "amount": -3.4,
+                    "operation": "addition",
+                    "slot": "mainhand"
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_lore",
+                "lore": [
+                  {
+                    "translate": "item.anemokinesis.ability",
+                    "color": "gold",
+                    "italic": false
+                  },
+                  {
+                    "translate": "item.anemokinesis.remorse.ability",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:6901001,display:{Name:'{\"translate\":\"item.anemokinesis.remorse\",\"italic\":false,\"color\":\"dark_aqua\"}'},ane:{click:1b},smithed:{id:\"anemokinesis:remorse\",durability:{max:1500}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
