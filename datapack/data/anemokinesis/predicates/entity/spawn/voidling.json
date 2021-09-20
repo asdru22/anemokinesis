@@ -1,0 +1,26 @@
+[
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "nbt": "{Tags:[\"ane.mob_spawn.check\"]}"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.05
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:enderman",
+        "location": {
+          "dimension": "minecraft:the_end"
+        }
+      }
+    }
+  ]

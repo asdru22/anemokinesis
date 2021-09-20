@@ -10,7 +10,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6901012,display:{Name:'{\"translate\":\"item.anemokinesis.verzui\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:verzui\"}}"
+                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901012,display:{Name:'{\"translate\":\"item.anemokinesis.verzui\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:verzui\"}}"
               }
             ]
           }

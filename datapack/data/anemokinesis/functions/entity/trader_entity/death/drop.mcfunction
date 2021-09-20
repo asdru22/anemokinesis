@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{tag:{ane:{id:"death_detect"}}}}] at @s run function anemokinesis:entity/trader_entity/death/effects

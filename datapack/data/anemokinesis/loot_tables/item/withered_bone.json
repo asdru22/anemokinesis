@@ -10,7 +10,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6901017,display:{Name:'{\"translate\":\"item.anemokinesis.withered_bone\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:withered_bone\"}}"
+                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901017,display:{Name:'{\"translate\":\"item.anemokinesis.withered_bone\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:withered_bone\"}}"
               }
             ]
           }

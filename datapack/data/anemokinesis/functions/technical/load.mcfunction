@@ -18,3 +18,5 @@ scoreboard players set ane.const.5 ane.dummy 5
 scoreboard players set ane.const.10 ane.dummy 10
 scoreboard players set ane.const.15 ane.dummy 15
 scoreboard players set ane.const.100 ane.dummy 100
+
+team add global.antivillager 
