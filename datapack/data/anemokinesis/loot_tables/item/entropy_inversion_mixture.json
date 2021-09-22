@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:structure_block",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901020,display:{Name:'{\"translate\":\"item.anemokinesis.entropy_inversion_mixture\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:entropy_inversion_mixture\"}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -23,7 +23,11 @@
     {"predicate": {"custom_model_data": 6901015},"model": "anemokinesis:item/dragon_scale"},
     {"predicate": {"custom_model_data": 6901016},"model": "anemokinesis:item/lightmare"},
     {"predicate": {"custom_model_data": 6901017},"model": "anemokinesis:item/withered_bone"},
-    {"predicate": {"custom_model_data": 6901018},"model": "anemokinesis:item/warped_pearl"}
+    {"predicate": {"custom_model_data": 6901018},"model": "anemokinesis:item/warped_pearl"},
+    {"predicate": {"custom_model_data": 6901019},"model": "anemokinesis:item/withering_powder"},
+    {"predicate": {"custom_model_data": 6901020},"model": "anemokinesis:item/entropy_inversion_mixture"},
+    {"predicate": {"custom_model_data": 6901021},"model": "anemokinesis:item/chromotrine"},
+    {"predicate": {"custom_model_data": 6901022},"model": "anemokinesis:item/cryotile"}
     
   ]
 }
