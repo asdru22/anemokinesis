@@ -14,7 +14,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{anemokinesis:{id:\"death_detect\", entity:\"voidling\"}}"
+              "tag": "{ane:{id:\"death_detect\", entity:\"voidling\"}}"
               }],
               "conditions": [{
                 "condition": "minecraft:killed_by_player"

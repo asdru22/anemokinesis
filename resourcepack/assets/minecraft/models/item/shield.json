@@ -46,6 +46,8 @@
     {"predicate":{"custom_model_data": 6901000},"model": "anemokinesis:item/thunderite_sword"},
     {"predicate":{"blocking": 1,"custom_model_data": 6901000},"model": "anemokinesis:item/thunderite_sword_blocking"},
     {"predicate":{"custom_model_data": 6901001},"model": "anemokinesis:item/remorse"},
-    {"predicate":{"blocking": 1,"custom_model_data": 6901001},"model": "anemokinesis:item/remorse_blocking"}
+    {"predicate":{"blocking": 1,"custom_model_data": 6901001},"model": "anemokinesis:item/remorse_blocking"},
+    {"predicate":{"custom_model_data": 6901002},"model": "anemokinesis:item/daybreak"},
+    {"predicate":{"blocking": 1,"custom_model_data": 6901002},"model": "anemokinesis:item/daybreak_blocking"}
   ]
 }

@@ -30,7 +30,8 @@
     {"predicate": {"custom_model_data": 6901022},"model": "anemokinesis:item/cryotile"},
     {"predicate": {"custom_model_data": 6901023},"model": "anemokinesis:item/moon_dust"},
     {"predicate": {"custom_model_data": 6901024},"model": "anemokinesis:item/lunar_shard"},
-    {"predicate": {"custom_model_data": 6901025},"model": "anemokinesis:item/cryo_core"}
+    {"predicate": {"custom_model_data": 6901025},"model": "anemokinesis:item/cryo_core"},
+    {"predicate": {"custom_model_data": 6901026},"model": "anemokinesis:item/heliolide_ingot"}
     
   ]
 }

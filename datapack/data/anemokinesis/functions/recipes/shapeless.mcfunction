@@ -25,3 +25,7 @@ execute store result score @s smd.data if entity @s[scores={smd.data=0}] if scor
 
 #Chromotrine
 execute store result score @s smd.data if entity @s[scores={smd.data=0}] if score count smd.data matches 3 if data storage smd:crafter root.temp{shapeless_crafting_input:[{tag:{smithed:{id:"anemokinesis:warped_pearl"}}},{tag:{smithed:{id:"anemokinesis:radiant_shard"}}},{id:"minecraft:amethyst_shard"}]} run loot replace block ~ ~ ~ container.16 loot anemokinesis:item/chromotrine
+#Lunar Shard
+execute store result score @s smd.data if entity @s[scores={smd.data=0}] if score count smd.data matches 3 if data storage smd:crafter root.temp{shapeless_crafting_input:[{tag:{smithed:{id:"anemokinesis:moon_dust"}}},{id:"minecraft:honey_bottle"},{id:"minecraft:lava_bucket"}]} run loot replace block ~ ~ ~ container.16 loot anemokinesis:item/lunar_shard
+
+execute store result score @s smd.data if entity @s[scores={smd.data=0}] if score count smd.data matches 5 if data storage smd:crafter root.temp{shapeless_crafting_input:[{tag:{smithed:{id:"anemokinesis:heliolide"}}},{id:"minecraft:raw_iron"},{id:"minecraft:raw_gold"},{id:"minecraft:raw_copper"},{id:"minecraft:lava_bucket"}]} run loot replace block ~ ~ ~ container.16 loot anemokinesis:item/heliolide_ingot

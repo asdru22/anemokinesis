@@ -1,0 +1,38 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_sword",
+            "functions": [
+              {
+                "function": "minecraft:set_attributes",
+                "modifiers": [
+                  {
+                    "attribute": "minecraft:generic.attack_damage",
+                    "name": "",
+                    "amount": 5,
+                    "operation": "addition",
+                    "slot": "mainhand"
+                  },
+                  {
+                    "attribute": "minecraft:generic.attack_speed",
+                    "name": "",
+                    "amount": -2,
+                    "operation": "addition",
+                    "slot": "mainhand"
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:6901000,display:{Name:'{\"translate\":\"item.anemokinesis.dragonedge_knife\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:dragonedge_knife\",durability:{max:530}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
