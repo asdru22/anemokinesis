@@ -35,6 +35,24 @@
       "chars": [
         "\uc002"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "anemokinesis:gui/daylight_capacitor_cryo.png",
+      "ascent": 14,
+      "height": 176.0,
+      "chars": [
+        "\uc003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "anemokinesis:gui/negative_space.png",
+      "ascent": -32768,
+      "height": -94,
+      "chars": [
+        "\uc004"
+      ]
     }
   ]
 }

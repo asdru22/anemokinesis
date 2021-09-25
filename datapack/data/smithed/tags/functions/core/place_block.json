@@ -1,5 +1,6 @@
 {
     "values":[
-        "anemokinesis:block/daylight_capacitor/place"
+        "anemokinesis:block/daylight_capacitor/place",
+        "anemokinesis:block/daylight_capacitor/cryo/place"
     ]
 }

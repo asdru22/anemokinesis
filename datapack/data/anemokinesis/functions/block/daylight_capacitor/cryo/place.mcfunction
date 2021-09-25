@@ -1,0 +1,1 @@
+execute if data storage smd:core {blockApi:{id:"anemokinesis:daylight_capacitor_cryo"}} run function anemokinesis:block/daylight_capacitor/cryo/set

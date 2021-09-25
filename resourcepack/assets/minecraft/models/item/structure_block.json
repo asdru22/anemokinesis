@@ -27,7 +27,8 @@
     {"predicate": {"custom_model_data": 6901019},"model": "anemokinesis:item/withering_powder"},
     {"predicate": {"custom_model_data": 6901020},"model": "anemokinesis:item/entropy_inversion_mixture"},
     {"predicate": {"custom_model_data": 6901021},"model": "anemokinesis:item/chromotrine"},
-    {"predicate": {"custom_model_data": 6901022},"model": "anemokinesis:item/cryotile"}
+    {"predicate": {"custom_model_data": 6901022},"model": "anemokinesis:item/cryotile"},
+    {"predicate": {"custom_model_data": 6901022},"model": "anemokinesis:item/moon_dust"}
     
   ]
 }

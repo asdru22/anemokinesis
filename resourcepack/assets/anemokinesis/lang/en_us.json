@@ -34,9 +34,12 @@
     "item.anemokinesis.cryotile": "Cryotile",
     "item.anemokinesis.withering_powder": "Withering Powder",
     "item.anemokinesis.entropy_inversion_mixture": "Entropy Inversion Mixture",
-    
+    "item.anemokinesis.moon_dust": "Moon Dust",
+
     "block.anemokinesis.daylight_capacitor": "Daylight Capacitor",
     "block.anemokinesis.daylight_capacitor.gui": "\uc000\uc002\uc001%s",
+    "block.anemokinesis.daylight_capacitor_cryo": "Cryo Capacitor",
+    "block.anemokinesis.daylight_capacitor_cryo.gui": "\uc004\uc003\uc001%s",
     "block.anemokinesis.progress_bar": "Extracting %s",
 
     "gui.anemokinesis.sun_drop":"\u000a",
