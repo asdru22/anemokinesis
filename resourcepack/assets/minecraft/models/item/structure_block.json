@@ -28,7 +28,9 @@
     {"predicate": {"custom_model_data": 6901020},"model": "anemokinesis:item/entropy_inversion_mixture"},
     {"predicate": {"custom_model_data": 6901021},"model": "anemokinesis:item/chromotrine"},
     {"predicate": {"custom_model_data": 6901022},"model": "anemokinesis:item/cryotile"},
-    {"predicate": {"custom_model_data": 6901022},"model": "anemokinesis:item/moon_dust"}
+    {"predicate": {"custom_model_data": 6901023},"model": "anemokinesis:item/moon_dust"},
+    {"predicate": {"custom_model_data": 6901024},"model": "anemokinesis:item/lunar_shard"},
+    {"predicate": {"custom_model_data": 6901025},"model": "anemokinesis:item/cryo_core"}
     
   ]
 }

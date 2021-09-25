@@ -10,7 +10,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901023,display:{Name:'{\"translate\":\"item.anemokinesis.moon_dust\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:moon_dust\"}}"
+                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901024,display:{Name:'{\"translate\":\"item.anemokinesis.lunar_shard\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:lunar_shard\"}}"
               }
             ]
           }

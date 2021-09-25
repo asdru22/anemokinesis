@@ -35,6 +35,9 @@
     "item.anemokinesis.withering_powder": "Withering Powder",
     "item.anemokinesis.entropy_inversion_mixture": "Entropy Inversion Mixture",
     "item.anemokinesis.moon_dust": "Moon Dust",
+    "item.anemokinesis.cryo_core": "Cryo Core",
+    "item.anemokinesis.lunar_shard": "Lunar Shard",
+
 
     "block.anemokinesis.daylight_capacitor": "Daylight Capacitor",
     "block.anemokinesis.daylight_capacitor.gui": "\uc000\uc002\uc001%s",
