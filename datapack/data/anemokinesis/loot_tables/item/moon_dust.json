@@ -10,11 +10,26 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901023,display:{Name:'{\"translate\":\"item.anemokinesis.moon_dust\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:moon_dust\"}}"
+                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901023,display:{Name:'{\"translate\":\"item.anemokinesis.moon_dust\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:moon_dust\"}}"
               }
             ]
           }
         ]
+      }
+    ],
+    "functions": [
+      {
+        "function": "minecraft:set_lore",
+        "lore": [
+            {
+                "text":""
+            },
+            {
+              "translate": "pack.anemokinesis",
+              "color":"#4EDBA5",
+"italic":true
+            }
+          ]
       }
     ]
   }

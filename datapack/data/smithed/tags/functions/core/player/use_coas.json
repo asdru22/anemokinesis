@@ -1,5 +1,6 @@
 {
     "values":[
-        "anemokinesis:item/magic/use"
+        "anemokinesis:item/magic/use",
+        "anemokinesis:item/cosmic_shell/use"
     ]
 }

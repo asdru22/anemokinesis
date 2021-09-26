@@ -10,11 +10,26 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901025,display:{Name:'{\"translate\":\"item.anemokinesis.cryo_core\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:cryo_core\"}}"
+                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901025,display:{Name:'{\"translate\":\"item.anemokinesis.cryo_core\",\"italic\":false,\"color\":\"yellow\"}'},smithed:{id:\"anemokinesis:cryo_core\"}}"
               }
             ]
           }
         ]
+      }
+    ],
+    "functions": [
+      {
+        "function": "minecraft:set_lore",
+        "lore": [
+            {
+                "text":""
+            },
+            {
+              "translate": "pack.anemokinesis",
+              "color":"#4EDBA5",
+"italic":true
+            }
+          ]
       }
     ]
   }

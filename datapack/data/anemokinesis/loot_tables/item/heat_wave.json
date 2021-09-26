@@ -10,7 +10,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6901001,display:{Name:'{\"translate\":\"item.anemokinesis.heat_wave\",\"italic\":false,\"color\":\"dark_aqua\"}'},ane:{magic:{identifier:1b,cost:40,damage:5}},smithed:{durability:{max:300},id:\"anemokinesis:heat_wave\"}}"
+                "tag": "{CustomModelData:6901001,display:{Name:'{\"translate\":\"item.anemokinesis.heat_wave\",\"italic\":false,\"color\":\"white\"}'},ane:{magic:{identifier:1b,cost:40,damage:5}},smithed:{durability:{max:300},id:\"anemokinesis:heat_wave\"}}"
               }
             ]
           }
@@ -48,7 +48,15 @@
               ],
               "color": "dark_green",
               "italic": false
-            }
+            },
+            {
+              "text":""
+          },
+          {
+            "translate": "pack.anemokinesis",
+            "color":"#4EDBA5",
+            "italic":true
+          }
           ]
       }
     ]

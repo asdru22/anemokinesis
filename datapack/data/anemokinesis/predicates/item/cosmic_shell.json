@@ -1,0 +1,24 @@
+[
+    {
+      "condition": "minecraft:value_check",
+      "value": {
+        "type": "minecraft:score",
+        "target": "this",
+        "score": "ane.cSunDrops"
+      },
+      "range": {
+        "min": 1200
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "nbt": "{smithed:{id:\"anemokinesis:cosmic_shell\"}}"
+          }
+        }
+      }
+    }
+  ]

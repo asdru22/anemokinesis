@@ -24,7 +24,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{HideFlags:64,CustomModelData:6901001,display:{color:6762296,Name:'{\"translate\":\"item.anemokinesis.verzui_chestplate\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:verzui_chestplate\",durability:{max:450}}}"
+                "tag": "{HideFlags:64,CustomModelData:6901001,display:{color:6762296,Name:'{\"translate\":\"item.anemokinesis.verzui_chestplate\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:verzui_chestplate\",durability:{max:450}}}"
               }
             ]
           }

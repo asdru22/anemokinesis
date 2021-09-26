@@ -29,21 +29,57 @@
             {
               "function": "minecraft:set_lore",
               "lore": [
-                {
-                  "translate": "item.anemokinesis.ability",
-                  "color": "gold",
-                  "italic": false
+                  {
+                      "text":""
+                  },
+                  {
+                    "translate": "item.modifiers.mainhand",
+                    "color":"gray",
+                    "italic": false
+                  },
+                  {
+                    "translate": "attribute.name.anemokinesis.attack_damage",
+                    "with": [
+                      {
+                        "text": "7.5"
+                      }
+                    ],
+                    "color": "dark_green",
+                    "italic": false
+                  },
+                  {
+                    "translate": "attribute.name.anemokinesis.magic_damage",
+                    "with": [
+                      {
+                        "text": "7"
+                      }
+                    ],
+                    "color": "dark_green",
+                    "italic": false
+                  },
+                  {
+                    "translate": "attribute.name.anemokinesis.attack_speed",
+                    "with": [
+                      {
+                        "text": "1.6"
+                      }
+                    ],
+                    "color": "dark_green",
+                    "italic": false
+                  },
+                  {
+                    "text":""
                 },
                 {
-                  "translate": "item.anemokinesis.verzui_armor.set_bonus",
-                  "color": "gray",
-                  "italic": false
+                  "translate": "pack.anemokinesis",
+                  "color":"#4EDBA5",
+                  "italic":true
                 }
-              ]
+                ]
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:6901000,display:{Name:'{\"translate\":\"item.anemokinesis.thunderite_sword\",\"italic\":false,\"color\":\"dark_aqua\"}'},ane:{click:1b},smithed:{id:\"anemokinesis:thunderite_sword\",durability:{max:760}}}"
+              "tag": "{HideFlags:2,CustomModelData:6901000,display:{Name:'{\"translate\":\"item.anemokinesis.thunderite_sword\",\"italic\":false,\"color\":\"white\"}'},ane:{click:1b},smithed:{id:\"anemokinesis:thunderite_sword\",durability:{max:760}}}"
             }
           ]
         }

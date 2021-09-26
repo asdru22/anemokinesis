@@ -10,11 +10,26 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{HideFlags:32,CustomPotionColor:16777215,CustomModelData:6901000,display:{Name:'{\"translate\":\"item.anemokinesis.solar_brew\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:solar_brew\"}}"
+                "tag": "{HideFlags:32,CustomPotionColor:16777215,CustomModelData:6901000,display:{Name:'{\"translate\":\"item.anemokinesis.solar_brew\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:solar_brew\"}}"
               }
             ]
           }
         ]
+      }
+    ],
+    "functions": [
+      {
+        "function": "minecraft:set_lore",
+        "lore": [
+            {
+                "text":""
+            },
+            {
+              "translate": "pack.anemokinesis",
+              "color":"#4EDBA5",
+"italic":true
+            }
+          ]
       }
     ]
   }

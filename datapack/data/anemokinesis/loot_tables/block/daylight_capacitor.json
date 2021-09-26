@@ -9,11 +9,26 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6901000,display:{Name:'{\"translate\":\"block.anemokinesis.daylight_capacitor\",\"italic\":false,\"color\":\"dark_aqua\"}'},BlockEntityTag:{Items:[{id:\"minecraft:stone\",Count:1b,Slot:0b,tag:{smithed:{block:{id:\"anemokinesis:daylight_capacitor\"}}}}]}}"
+                "tag": "{CustomModelData:6901000,display:{Name:'{\"translate\":\"block.anemokinesis.daylight_capacitor\",\"italic\":false,\"color\":\"white\"}'},BlockEntityTag:{Items:[{id:\"minecraft:stone\",Count:1b,Slot:0b,tag:{smithed:{block:{id:\"anemokinesis:daylight_capacitor\"}}}}]}}"
               }
             ]
           }
         ]
+      }
+    ],
+    "functions": [
+      {
+        "function": "minecraft:set_lore",
+        "lore": [
+            {
+                "text":""
+            },
+            {
+              "translate": "pack.anemokinesis",
+              "color":"#4EDBA5",
+"italic":true
+            }
+          ]
       }
     ]
   }

@@ -8,6 +8,47 @@
             "name": "minecraft:iron_sword",
             "functions": [
               {
+                "function": "minecraft:set_lore",
+                "lore": [
+                    {
+                        "text":""
+                    },
+                    {
+                      "translate": "item.modifiers.mainhand",
+                      "color":"gray",
+                      "italic": false
+                    },
+                    {
+                      "translate": "attribute.name.anemokinesis.attack_damage",
+                      "with": [
+                        {
+                          "text": "5"
+                        }
+                      ],
+                      "color": "dark_green",
+                      "italic": false
+                    },
+                    {
+                      "translate": "attribute.name.anemokinesis.attack_speed",
+                      "with": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "color": "dark_green",
+                      "italic": false
+                    },
+                    {
+                      "text":""
+                  },
+                  {
+                    "translate": "pack.anemokinesis",
+                    "color":"#4EDBA5",
+                    "italic":true
+                  }
+                  ]
+              },
+              {
                 "function": "minecraft:set_attributes",
                 "modifiers": [
                   {
@@ -28,7 +69,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6901000,display:{Name:'{\"translate\":\"item.anemokinesis.dragonedge_knife\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:dragonedge_knife\",durability:{max:530}}}"
+                "tag": "{HideFlags:2,CustomModelData:6901000,display:{Name:'{\"translate\":\"item.anemokinesis.dragonedge_knife\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:dragonedge_knife\",durability:{max:530}}}"
               }
             ]
           }

@@ -24,7 +24,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{HideFlags:64,CustomModelData:6901000,display:{color:5697,Name:'{\"translate\":\"item.anemokinesis.heliolide_boots\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:heliolide_boots\",durability:{max:300}}}"
+                "tag": "{HideFlags:64,CustomModelData:6901000,display:{color:5697,Name:'{\"translate\":\"item.anemokinesis.heliolide_boots\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:heliolide_boots\",durability:{max:300}}}"
               }
             ]
           }

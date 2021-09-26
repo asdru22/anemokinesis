@@ -10,7 +10,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{HideFlags:32,CustomPotionColor:16777215,CustomModelData:6901001,display:{Name:'{\"translate\":\"item.anemokinesis.solar_flare_potion\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:solar_flare_potion\"}}"
+                "tag": "{HideFlags:32,CustomPotionColor:16777215,CustomModelData:6901001,display:{Name:'{\"translate\":\"item.anemokinesis.solar_flare_potion\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:solar_flare_potion\"}}"
               }
             ]
           }

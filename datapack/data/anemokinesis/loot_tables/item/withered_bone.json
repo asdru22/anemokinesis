@@ -10,11 +10,26 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901017,display:{Name:'{\"translate\":\"item.anemokinesis.withered_bone\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:withered_bone\"}}"
+                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901017,display:{Name:'{\"translate\":\"item.anemokinesis.withered_bone\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:withered_bone\"}}"
               }
             ]
           }
         ]
+      }
+    ],
+    "functions": [
+      {
+        "function": "minecraft:set_lore",
+        "lore": [
+            {
+                "text":""
+            },
+            {
+              "translate": "pack.anemokinesis",
+              "color":"#4EDBA5",
+"italic":true
+            }
+          ]
       }
     ]
   }

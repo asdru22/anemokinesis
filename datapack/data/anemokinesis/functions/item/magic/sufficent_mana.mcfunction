@@ -5,6 +5,7 @@ tag @s add ane.item.magic.user
 
 ###Items
 execute if data storage smd:core item{tag:{smithed:{id:"anemokinesis:lightning_arcanum"}}} anchored eyes positioned ^ ^ ^0 run function anemokinesis:item/magic/items/lightning_arcanum/use
+execute if data storage smd:core item{tag:{smithed:{id:"anemokinesis:heat_wave"}}} anchored eyes positioned ^ ^ ^0 rotated ~ ~ run function anemokinesis:item/magic/items/heat_wave/use
 
 #Reset
 tag @s remove ane.item.magic.user

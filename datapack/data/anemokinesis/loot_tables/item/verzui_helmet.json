@@ -24,7 +24,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{HideFlags:64,CustomModelData:6901001,display:{color:6762296,Name:'{\"translate\":\"item.anemokinesis.verzui_helmet\",\"italic\":false,\"color\":\"dark_aqua\"}'},smithed:{id:\"anemokinesis:verzui_helmet\",durability:{max:350}}}"
+                "tag": "{HideFlags:64,CustomModelData:6901001,display:{color:6762296,Name:'{\"translate\":\"item.anemokinesis.verzui_helmet\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:verzui_helmet\",durability:{max:350}}}"
               }
             ]
           }

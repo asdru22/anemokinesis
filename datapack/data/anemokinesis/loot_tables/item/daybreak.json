@@ -29,21 +29,57 @@
               {
                 "function": "minecraft:set_lore",
                 "lore": [
-                  {
-                    "translate": "item.anemokinesis.ability",
-                    "color": "gold",
-                    "italic": false
+                    {
+                        "text":""
+                    },
+                    {
+                      "translate": "item.modifiers.mainhand",
+                      "color":"gray",
+                      "italic": false
+                    },
+                    {
+                      "translate": "attribute.name.anemokinesis.attack_damage",
+                      "with": [
+                        {
+                          "text": "7.5"
+                        }
+                      ],
+                      "color": "dark_green",
+                      "italic": false
+                    },
+                    {
+                      "translate": "attribute.name.anemokinesis.magic_damage",
+                      "with": [
+                        {
+                          "text": "9"
+                        }
+                      ],
+                      "color": "dark_green",
+                      "italic": false
+                    },
+                    {
+                      "translate": "attribute.name.anemokinesis.attack_speed",
+                      "with": [
+                        {
+                          "text": "1.6"
+                        }
+                      ],
+                      "color": "dark_green",
+                      "italic": false
+                    },
+                    {
+                      "text":""
                   },
                   {
-                    "translate": "item.anemokinesis.daybreak.ability",
-                    "color": "gray",
-                    "italic": false
+                    "translate": "pack.anemokinesis",
+                    "color":"#4EDBA5",
+                    "italic":true
                   }
-                ]
+                  ]
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6901002,display:{Name:'{\"translate\":\"item.anemokinesis.daybreak\",\"italic\":false,\"color\":\"dark_aqua\"}'},ane:{click:1b},smithed:{id:\"anemokinesis:daybreak\",durability:{max:1500}}}"
+                "tag": "{HideFlags:2,CustomModelData:6901002,display:{Name:'{\"translate\":\"item.anemokinesis.daybreak\",\"italic\":false,\"color\":\"white\"}'},ane:{click:1b},smithed:{id:\"anemokinesis:daybreak\",durability:{max:1500}}}"
               }
             ]
           }
