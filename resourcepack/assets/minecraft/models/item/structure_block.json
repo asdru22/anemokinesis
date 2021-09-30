@@ -13,7 +13,7 @@
     {"predicate": {"custom_model_data": 6901005},"model": "anemokinesis:gui/progress_bar/5"},
     {"predicate": {"custom_model_data": 6901006},"model": "anemokinesis:gui/progress_bar/6"},
     {"predicate": {"custom_model_data": 6901007},"model": "anemokinesis:gui/progress_bar/7"},
-    {"predicate": {"custom_model_data": 6901008},"model": "anemokinesis:gui/progress_bar/8"},
+    {"predicate": {"custom_model_data": 6901008},"model": "anemokinesis:gui/progress_bar/8"}, 
     {"predicate": {"custom_model_data": 6901009},"model": "anemokinesis:gui/progress_bar/9"},
     {"predicate": {"custom_model_data": 6901010},"model": "anemokinesis:gui/progress_bar/10"},
     {"predicate": {"custom_model_data": 6901011},"model": "anemokinesis:item/radiant_shard"},
@@ -31,7 +31,11 @@
     {"predicate": {"custom_model_data": 6901023},"model": "anemokinesis:item/moon_dust"},
     {"predicate": {"custom_model_data": 6901024},"model": "anemokinesis:item/lunar_shard"},
     {"predicate": {"custom_model_data": 6901025},"model": "anemokinesis:item/cryo_core"},
-    {"predicate": {"custom_model_data": 6901026},"model": "anemokinesis:item/heliolide_ingot"}
+    {"predicate": {"custom_model_data": 6901026},"model": "anemokinesis:item/heliolide_ingot"},
+    {"predicate": {"custom_model_data": 6901027},"model": "anemokinesis:item/anemochlore"},
+    {"predicate": {"custom_model_data": 6901028},"model": "anemokinesis:item/terrasthene"},
+    {"predicate": {"custom_model_data": 6901029},"model": "anemokinesis:item/nightfall"},
+    {"predicate": {"custom_model_data": 6901030},"model": "anemokinesis:item/garnet"}
     
   ]
 }

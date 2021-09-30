@@ -43,6 +43,10 @@
     "item.anemokinesis.dragonedge_knife": "Dragonedge Knife",
     "item.anemokinesis.cosmic_shell": "Cosmic Shell",
     "item.anemokinesis.nightfall": "Nightfall",
+    "item.anemokinesis.garnet": "Garnet",
+    "item.anemokinesis.anemochlore": "Anemochlore",
+    "item.anemokinesis.terrasthene": "Terrasthene",
+    "item.anemokinesis.guide": "Anemokinesis Guide",
 
     "block.anemokinesis.daylight_capacitor": "Daylight Capacitor",
     "block.anemokinesis.daylight_capacitor.gui": "\uc000\uc002\uc001%s",
@@ -70,6 +74,32 @@
     "advancement.ane.drink_solar_brew.title": "The Power of the Sun...",
     "advancement.ane.drink_solar_brew.description": "Drink %s and unlock the ability to harness Sun Drops for magic items.",
     "advancement.ane.place_daylight_capacitor.title": "Celestial Extraction",
-    "advancement.ane.place_daylight_capacitor.description": "Place a %s and start producing %ss."
+    "advancement.ane.place_daylight_capacitor.description": "Place a %s and start producing %ss.",
 
+    "book.anemokinesis.icon.description":"\ua001",
+    "book.anemokinesis.icon.crafting":"\ua002",
+    "book.anemokinesis.icon.give":"\ua003",
+    "book.anemokinesis.icon.history":"\ua004\n\n",
+    "book.anemokinesis.icon.icon_empty":"\ua005",
+    "book.anemokinesis.icon.anti_icon":"\ua006",
+    "book.anemokinesis.text.give":"Click to get item (if you are opped).",
+    "book.anemokinesis.text.navigate":"Click to navigate",
+
+    "book.anemokinesis.solar_brew.icon":"\ua007",
+    "book.anemokinesis.text.solar_brew.description":"By default, Sun Drops regenerate\neach second for 2% of the max\nSun Drops a player can hold.",
+    "book.anemokinesis.solar_brew.crafting":"Shaped\n\ua008\n\n\n\n\n\n",
+    "book.anemokinesis.text.solar_brew.history":"V0.1 Added",
+    "book.anemokinesis.text.solar_brew":"nice milk crafted with %s",
+
+    "book.anemokinesis.daylight_capacitor.icon":"\ua009",
+    "book.anemokinesis.text.daylight_capacitor.description":"This ancient device can harvest\n the power of the sun. Only if it's daytime, though.",
+    "book.anemokinesis.daylight_capacitor.crafting":"Shaped\n\ua00a\n\n\n\n\n\n",
+    "book.anemokinesis.text.daylight_capacitor.history":"V0.1 Added",
+    "book.anemokinesis.text.daylight_capacitor":"Extracts 1 %s every 50 seconds",
+
+    "book.anemokinesis.radiant_shard.icon":"\ua00b",
+    "book.anemokinesis.text.radiant_shard.description":"Very shiny gem.",
+    "book.anemokinesis.radiant_shard.crafting":"Daylight Capacitor\n\ua00c\n\n\n\n\n\n",
+    "book.anemokinesis.text.radiant_shard.history":"V0.1 Added",
+    "book.anemokinesis.text.radiant_shard":"A very useful crafting ingredient produced by the %s."
 }

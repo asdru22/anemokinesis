@@ -1,15 +1,16 @@
 {
+    "type": "minecraft:generic",
     "pools": [
       {
         "rolls": 1,
         "entries": [
           {
             "type": "minecraft:item",
-            "name": "minecraft:furnace",
+            "name": "minecraft:structure_block",
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6901000,display:{Name:'{\"translate\":\"block.anemokinesis.daylight_capacitor\",\"italic\":false,\"color\":\"aqua\"}'},BlockEntityTag:{Items:[{id:\"minecraft:stone\",Count:1b,Slot:0b,tag:{smithed:{block:{id:\"anemokinesis:daylight_capacitor\"}}}}]}}"
+                "tag": "{BlockEntityTag:{name:\"ane:stackable_item\",id:\"minecraft:structure_block\"},CustomModelData:6901028,display:{Name:'{\"translate\":\"item.anemokinesis.terrasthene\",\"italic\":false,\"color\":\"white\"}'},smithed:{id:\"anemokinesis:terrasthene\"}}"
               }
             ]
           }
