@@ -89,7 +89,7 @@
     "book.anemokinesis.text.solar_brew.description":"By default, Sun Drops regenerate\neach second for 2% of the max\nSun Drops a player can hold.",
     "book.anemokinesis.solar_brew.crafting":"Shaped\n\ua008\n\n\n\n\n\n",
     "book.anemokinesis.text.solar_brew.history":"V0.1 Added",
-    "book.anemokinesis.text.solar_brew":"nice milk crafted with %s",
+    "book.anemokinesis.text.solar_brew":"Drink this concoction to unlock the power to harness Sun Drops.",
 
     "book.anemokinesis.daylight_capacitor.icon":"\ua009",
     "book.anemokinesis.text.daylight_capacitor.description":"This ancient device can harvest\n the power of the sun. Only if it's daytime, though.",
@@ -98,8 +98,20 @@
     "book.anemokinesis.text.daylight_capacitor":"Extracts 1 %s every 50 seconds",
 
     "book.anemokinesis.radiant_shard.icon":"\ua00b",
-    "book.anemokinesis.text.radiant_shard.description":"Very shiny gem.",
+    "book.anemokinesis.text.radiant_shard.description":"OooOOO shiny.",
     "book.anemokinesis.radiant_shard.crafting":"Daylight Capacitor\n\ua00c\n\n\n\n\n\n",
     "book.anemokinesis.text.radiant_shard.history":"V0.1 Added",
-    "book.anemokinesis.text.radiant_shard":"A very useful crafting ingredient produced by the %s."
+    "book.anemokinesis.text.radiant_shard":"Can be crafted into %s.",
+
+    "book.anemokinesis.heliolide.icon":"\ua00d",
+    "book.anemokinesis.text.heliolide.description":"A direct manifestation of\nthe power of the Sun.",
+    "book.anemokinesis.heliolide.crafting":"Shapeless\n\ua00e\n\n\n\n\n\n",
+    "book.anemokinesis.text.heliolide.history":"V0.1 Added",
+    "book.anemokinesis.text.heliolide":"Can be forged into a %s.",
+
+    "book.anemokinesis.heliolide_ingot.icon":"\ua00f",
+    "book.anemokinesis.text.heliolide_ingot.description":"A bright metallic alloy.",
+    "book.anemokinesis.heliolide_ingot.crafting":"Shapeless\n\ua010\n\n\n\n\n\n",
+    "book.anemokinesis.text.heliolide_ingot.history":"V0.1 Added",
+    "book.anemokinesis.text.heliolide_ingot":"Can be used to craft %s."
 }

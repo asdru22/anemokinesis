@@ -276,11 +276,47 @@
     },
     {
       "type": "bitmap",
-      "file": "anemokinesis:gui/book/crafting/daylight_capacitor.png",
+      "file": "anemokinesis:gui/book/crafting/radiant_shard.png",
       "ascent": 0,
       "height": 60,
       "chars":[
         "\ua00c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "anemokinesis:item/heliolide.png",
+      "ascent": 9,
+      "height": 18,
+      "chars":[
+        "\ua00d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "anemokinesis:gui/book/crafting/heliolide.png",
+      "ascent": 0,
+      "height": 60,
+      "chars":[
+        "\ua00e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "anemokinesis:item/heliolide_ingot.png",
+      "ascent": 9,
+      "height": 18,
+      "chars":[
+        "\ua00f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "anemokinesis:gui/book/crafting/heliolide_ingot.png",
+      "ascent": 0,
+      "height": 60,
+      "chars":[
+        "\ua010"
       ]
     }
   ]
