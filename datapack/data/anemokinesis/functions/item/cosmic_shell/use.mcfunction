@@ -1,1 +1,0 @@
-execute if predicate anemokinesis:item/cosmic_shell run function anemokinesis:item/cosmic_shell/success

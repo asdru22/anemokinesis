@@ -1,0 +1,25 @@
+{
+  "providers":[
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/void_tolerance.png",
+      "ascent": -16,
+      "height": 9,
+      "chars":["\u0001\u0002\u0003"]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": 70,
+      "chars":["\u0004"]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": -1,
+      "chars":["\u0005"]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+data modify storage cotv:storage root.temp.actionbar.void_tolerance set value [{"text":"\\u0001","font":"cotv:main"},{"text":"\\u0002","font":"cotv:main"}]
+title @s actionbar [{"text":"\\u0004","font":"cotv:main"},{"nbt":"root.temp.actionbar.void_tolerance","storage":"cotv:storage","interpret": true,"separator":{"text":"\\u0005","font":"cotv:main"}}]

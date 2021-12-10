@@ -1,2 +1,0 @@
-execute at @p run summon item ~ ~ ~ {Item:{Count:1b,id:"minecraft:stone",tag:{ane:{temp:1b}}}}
-execute as @e[type=item,nbt={Item:{tag:{ane:{temp:1b}}}}] run data modify entity @s Item set from block ~ ~ ~ Items[{Slot:1b}]

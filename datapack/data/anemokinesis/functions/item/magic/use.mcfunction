@@ -1,1 +1,0 @@
-execute if data storage smd:core item{tag:{ane:{magic:{identifier:1b}}}} if entity @s[advancements={anemokinesis:minecraft/drink_solar_brew=true}] run function anemokinesis:item/magic/mana_check
