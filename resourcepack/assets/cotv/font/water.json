@@ -1,0 +1,46 @@
+{
+  "providers":[
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/void_tolerance.png",
+      "ascent": -7,
+      "height": 9,
+      "chars":["\u0001\u0002\u0003"]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": 98,
+      "chars":["\u0004"]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": -4,
+      "chars":["\u0005"]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/cosmic_alignment.png",
+      "ascent": -16,
+      "height": 40,
+      "chars":["\u0006\u0007\u0008\u0009\u000a\u000b\u000c\u000d\u000e\u000f\u0010"]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": -16,
+      "chars":["\u0011"]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": -8,
+      "chars":["\u0012"]
+    }
+  ]
+}

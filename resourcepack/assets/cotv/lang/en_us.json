@@ -1,4 +1,9 @@
 {
     "pack.cotv": "Call of the Void",
-    "pack.cotv.desc": "ballin"
+    "pack.cotv.desc": "ballin",
+
+    "gui.cotv.void_tolerance.bar":"\u0001",
+    "gui.cotv.void_tolerance.end_crystal":"\u0002",
+    "gui.cotv.void_tolerance.ender_eye":"\u0003",
+    "gui.cotv.void_tolerance.shulker_shell":"\u0004"
 }

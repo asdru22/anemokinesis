@@ -1,1 +1,1 @@
-
+execute if entity @s[gamemode=!creative,gamemode=!spectator] run function cotv:gui/actionbar
