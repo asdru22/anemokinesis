@@ -5,5 +5,7 @@
     "gui.cotv.void_tolerance.bar":"\u0001",
     "gui.cotv.void_tolerance.end_crystal":"\u0002",
     "gui.cotv.void_tolerance.ender_eye":"\u0003",
-    "gui.cotv.void_tolerance.shulker_shell":"\u0004"
+    "gui.cotv.void_tolerance.shulker_shell":"\u0004",
+    "gui.cotv.void_tolerance.dragon_breath":"\u0005",
+    "gui.cotv.void_tolerance.heart_of_ender":"\u0006"
 }
