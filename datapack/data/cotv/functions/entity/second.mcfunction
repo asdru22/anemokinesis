@@ -1,0 +1,1 @@
+execute if entity @s[tag=cotv.block.void_campfire] run function cotv:block/void_campfire/second

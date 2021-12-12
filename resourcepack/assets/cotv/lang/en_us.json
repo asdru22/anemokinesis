@@ -2,6 +2,15 @@
     "pack.cotv": "Call of the Void",
     "pack.cotv.desc": "ballin",
 
+    "item.cotv.echoing_matter":"Echoing Matter",
+    "item.cotv.echoing_residue":"Echoing Residue",
+    "item.cotv.echoing_bar":"Echoing Bar",
+    "item.cotv.echoing_blade":"Echoing Blade",
+    
+    "block.cotv.void_campfire":"Void Campfire",
+
+    "death.cotv.void_campfire":"@s's soul was set ablaze by @s",
+
     "gui.cotv.void_tolerance.bar":"\u0001",
     "gui.cotv.void_tolerance.end_crystal":"\u0002",
     "gui.cotv.void_tolerance.ender_eye":"\u0003",

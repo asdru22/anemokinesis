@@ -1,7 +1,7 @@
 {
 	"description": "All entities",
 	"values": [
-		"#anemokinesis:undead",
+		"#cotv:undead",
 		"minecraft:bat",
 		"minecraft:chicken",
 		"minecraft:cod",

@@ -1,7 +1,7 @@
 {
 	"description": "All entities",
 	"values": [
-		"#anemokinesis:mobs",
-		"#anemokinesis:technical"
+		"#cotv:mobs",
+		"#cotv:technical"
 	]
 }
