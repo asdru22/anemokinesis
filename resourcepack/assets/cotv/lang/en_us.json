@@ -6,8 +6,14 @@
     "item.cotv.echoing_residue":"Echoing Residue",
     "item.cotv.echoing_bar":"Echoing Bar",
     "item.cotv.echoing_blade":"Echoing Blade",
+    "item.cotv.echoing_axe":"Echoing Axe",
+    "item.cotv.echoing_pickaxe":"Echoing Pickaxe",
+    "item.cotv.echoing_shovel":"Echoing Shovel",
+    "item.cotv.echoing_hoe":"Echoing Hoe",
+    "item.cotv.echoing_bow":"Echoing Bow",
     
     "block.cotv.void_campfire":"Void Campfire",
+    "block.cotv.fractal_junction":"Fractal Junction",
 
     "death.cotv.void_campfire":"@s's soul was set ablaze by @s",
 

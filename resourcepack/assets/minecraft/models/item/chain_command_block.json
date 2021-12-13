@@ -8,6 +8,9 @@
     "overrides": [
       {"predicate": {"custom_model_data": 6901000},"model": "cotv:item/echoing_bar"},
       {"predicate": {"custom_model_data": 6901001},"model": "cotv:block/void_campfire_fire"},
-      {"predicate": {"custom_model_data": 6901002},"model": "cotv:item/echoing_residue"}
+      {"predicate": {"custom_model_data": 6901002},"model": "cotv:item/echoing_residue"},
+      {"predicate": {"custom_model_data": 6901003},"model": "cotv:item/fractal_junction"},
+      {"predicate": {"custom_model_data": 6901004},"model": "cotv:block/fractal_junction"},
+      {"predicate": {"custom_model_data": 6901005},"model": "cotv:block/fractal_junction_connected"}
   ]
   }
