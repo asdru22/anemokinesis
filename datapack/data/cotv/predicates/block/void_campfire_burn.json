@@ -2,7 +2,7 @@
     "condition": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
-      "nbt": "{OnGround:1b,HurtTime:0s}",
+      "nbt": "{OnGround:1b}",
       "stepping_on": {
         "block": {
           "blocks": [

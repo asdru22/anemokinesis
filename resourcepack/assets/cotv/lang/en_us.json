@@ -15,7 +15,7 @@
     "block.cotv.void_campfire":"Void Campfire",
     "block.cotv.fractal_junction":"Fractal Junction",
 
-    "death.cotv.void_campfire":"@s's soul was set ablaze by @s",
+    "death.cotv.void_campfire":"%s's soul was set ablaze by %s",
 
     "gui.cotv.void_tolerance.bar":"\u0001",
     "gui.cotv.void_tolerance.end_crystal":"\u0002",

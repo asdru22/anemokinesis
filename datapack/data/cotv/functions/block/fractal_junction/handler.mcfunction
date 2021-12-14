@@ -1,2 +1,2 @@
 setblock ~ ~ ~ tripwire
-execute align xyz run summon armor_stand ~.5 ~ ~.5 {Tags:["cotv.block.fractal_junction","cotv.entity","smithed.block","smithed.entity","smithed.block"],Invisible:1b,Invulnerable:1b,Marker:1b,ArmorItems:[{},{},{},{Count:1b,id:"minecraft:chain_command_block",tag:{CustomModelData:6901004}}]}
+execute align xyz run summon armor_stand ~.5 ~ ~.5 {Tags:["cotv.block.fractal_junction","cotv.entity","smithed.block","smithed.entity","smithed.block","smithed.armor_stand"],Invisible:1b,Invulnerable:1b,Marker:1b,ArmorItems:[{},{},{},{Count:1b,id:"minecraft:chain_command_block",tag:{CustomModelData:6901004}}]}

@@ -1,0 +1,2 @@
+execute if data storage smithed:core blockApi{id:"cotv:fractal_junction"} run function cotv:block/fractal_junction/handler
+execute if data storage smithed:core blockApi{id:"cotv:void_campfire"} run function cotv:block/void_campfire/handler
