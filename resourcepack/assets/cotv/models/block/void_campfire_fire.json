@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"textures": {
 		"1": "cotv:block/void_campfire_fire",
-		"particle": "cotv:block/campfire_log"
+		"particle": "cotv:block/void_campfire_fire"
 	},
 	"elements": [
 		{
