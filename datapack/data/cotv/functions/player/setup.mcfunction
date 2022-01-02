@@ -1,0 +1,1 @@
+execute store result score @s cotv.id run scoreboard players add %max cotv.id 1

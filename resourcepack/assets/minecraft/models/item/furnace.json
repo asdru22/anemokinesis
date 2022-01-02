@@ -15,6 +15,11 @@
         "custom_model_data": 6901001
         },
         "model": "cotv:item/fractal_junction"
+      },
+      {"predicate": {
+        "custom_model_data": 6901002
+        },
+        "model": "cotv:block/endric_altar"
       }
     ]
   }
