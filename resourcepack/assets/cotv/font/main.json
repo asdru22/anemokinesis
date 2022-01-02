@@ -13,6 +13,33 @@
       "ascent": -32768,
       "height": -1,
       "chars":["\u000f"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": [
+        "\uc010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": -171,
+      "chars": [
+        "\uc011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cotv:gui/endric_altar.png",
+      "ascent": 14,
+      "height": 176.0,
+      "chars": [
+        "\uc012"
+      ]
     }
   ]
 }

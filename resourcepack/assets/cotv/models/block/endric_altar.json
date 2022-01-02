@@ -3,9 +3,9 @@
   "textures": {
     "particle": "cotv:block/endric_altar_front",
     "north": "cotv:block/endric_altar_front",
-    "south": "cotv:block/endric_altar_side",
+    "south": "cotv:block/endric_altar_front",
     "east": "cotv:block/endric_altar_side",
-    "west": "cotv:block/endric_altar_front",
+    "west": "cotv:block/endric_altar_side",
     "up": "cotv:block/endric_altar_top",
     "down": "cotv:block/endric_altar_bottom"
   },

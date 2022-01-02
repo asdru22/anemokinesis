@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,sort=nearest,limit=1,tag=cotv.block.endric_altar] at @s run function cotv:block/endric_altar/last_player_to_interact
+advancement revoke @s only cotv:technical/block/interact_with_endric_altar

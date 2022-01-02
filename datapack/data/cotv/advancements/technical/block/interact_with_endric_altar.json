@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "click_endric_altar": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:barrel"
+            ],
+            "nbt": "{CustomName:'{\"color\":\"white\",\"font\":\"cotv:main\",\"translate\":\"block.cotv.endric_altar.gui\",\"with\":[{\"color\":\"#3F3F3F\",\"font\":\"minecraft:default\",\"translate\":\"block.cotv.endric_altar\"}]}'}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "cotv:block/endric_altar/enter_gui"
+  }
+}
