@@ -17,6 +17,7 @@
     {"predicate": {"custom_model_data": 6901010},"model": "cotv:gui/void_tolerance_left/10"},
     {"predicate": {"custom_model_data": 6901011},"model": "cotv:gui/pipes/1"},
     {"predicate": {"custom_model_data": 6901012},"model": "cotv:gui/pipes/2"},
-    {"predicate": {"custom_model_data": 6901013},"model": "cotv:gui/pipes/3"}
+    {"predicate": {"custom_model_data": 6901013},"model": "cotv:gui/pipes/3"},
+    {"predicate": {"custom_model_data": 6901014},"model": "cotv:gui/enchantments/void_strike_1"}
   ]
 }

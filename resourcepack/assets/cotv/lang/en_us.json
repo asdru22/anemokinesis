@@ -21,7 +21,7 @@
     "block.cotv.fractal_junction":"Fractal Junction",
     "block.cotv.endric_altar":"Endric Altar",
     "block.cotv.endric_altar.gui":"\uc010\uc012\uc011%s",
-    "block.cotv.endric_altar.void_tolerance_left":"%s's Void Tolerance left: %s",
+    "block.cotv.endric_altar.void_tolerance_left":"%s's Void Tolerance: %s",
 
     "death.cotv.void_campfire":"%s's soul was set ablaze by %s",
 
