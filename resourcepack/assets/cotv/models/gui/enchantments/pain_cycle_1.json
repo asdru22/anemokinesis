@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "cotv:gui/enchantments/level_1_background",
-		"1": "cotv:gui/enchantments/void_strike",
+		"1": "cotv:gui/enchantments/pain_cycle",
 		"particle": "cotv:gui/enchantments/level_1_background"
 	},
 	"elements": [

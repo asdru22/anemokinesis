@@ -5,7 +5,7 @@
       "blocks": [
         "minecraft:barrel"
       ],
-      "nbt": "{Items:[{Slot:2b},{Slot:9b},{Slot:20b,tag:{smithed:{id:\"cotv:shadowblight_shard\"}}}]}"
+      "nbt": "{Items:[{Slot:2b},{Slot:20b,tag:{smithed:{id:\"cotv:shadowblight_shard\"}}}]}"
     }
   }
 }

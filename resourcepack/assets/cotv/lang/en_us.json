@@ -1,6 +1,7 @@
 {
     "pack.cotv": "Call of the Void",
     "pack.cotv.desc": "ballin",
+    "cotv.void_tolerance": "Void Tolerance",
 
     "item.cotv.echoing_matter":"Echoing Matter",
     "item.cotv.echoing_residue":"Echoing Residue",
@@ -30,5 +31,12 @@
     "gui.cotv.void_tolerance.ender_eye":"\u0003",
     "gui.cotv.void_tolerance.shulker_shell":"\u0004",
     "gui.cotv.void_tolerance.dragon_breath":"\u0005",
-    "gui.cotv.void_tolerance.heart_of_ender":"\u0006"
+    "gui.cotv.void_tolerance.heart_of_ender":"\u0006",
+    
+    "enchantment.cotv.enchantment_cost":"Requires: %s%s, %s %s",
+    "enchantment.cotv.shard_icon":"\uc013",
+    "enchantment.cotv.void_strike":"Void Strike %s",
+    "enchantment.cotv.pain_cycle":"Pain Cycle %s",
+    "enchantment.cotv.vampirism":"Vampirism %s"
+    
 }

@@ -40,6 +40,13 @@
       "chars": [
         "\uc012"
       ]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:item/shadowblight_shard.png",
+      "ascent": 10,
+      "height": 12,
+      "chars":["\uc013"]
     }
   ]
 }

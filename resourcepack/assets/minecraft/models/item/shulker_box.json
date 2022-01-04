@@ -18,6 +18,8 @@
     {"predicate": {"custom_model_data": 6901011},"model": "cotv:gui/pipes/1"},
     {"predicate": {"custom_model_data": 6901012},"model": "cotv:gui/pipes/2"},
     {"predicate": {"custom_model_data": 6901013},"model": "cotv:gui/pipes/3"},
-    {"predicate": {"custom_model_data": 6901014},"model": "cotv:gui/enchantments/void_strike_1"}
+    {"predicate": {"custom_model_data": 6901014},"model": "cotv:gui/enchantments/void_strike_1"},
+    {"predicate": {"custom_model_data": 6901015},"model": "cotv:gui/enchantments/pain_cycle_1"},
+    {"predicate": {"custom_model_data": 6901016},"model": "cotv:gui/enchantments/vampirism_1"}
   ]
 }
