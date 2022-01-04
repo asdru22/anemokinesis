@@ -1,14 +1,5 @@
 [
-  {
-    "function": "minecraft:set_name",
-    "entity": "this",
-    "name": {
-      "selector": "@s",
-      "color": "#FF0000",
-      "italic":false
-    }
-  },
-  {
+ {
     "function": "minecraft:set_lore",
     "entity": "this",
     "lore": [
@@ -20,7 +11,7 @@
           "italic": false
         },
         {
-          "nbt": "root.temp.ench.valid[].display",
+          "nbt": "root.temp.merge.new[].display",
           "storage": "cotv:storage",
           "interpret": true,
           "separator": ""
