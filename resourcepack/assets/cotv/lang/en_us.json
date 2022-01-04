@@ -17,6 +17,7 @@
     "item.cotv.shadowblight_shard":"Shadowblight Shard",
     "item.cotv.shadowblight_arrow":"Shadowblight Arrow",
     "item.cotv.fractaleaf_petal":"Fractaleaf Petal",
+    "item.cotv.mystic_book":"Mystic Book",
 
     "block.cotv.void_campfire":"Void Campfire",
     "block.cotv.fractal_junction":"Fractal Junction",
@@ -34,9 +35,14 @@
     "gui.cotv.void_tolerance.heart_of_ender":"\u0006",
     
     "enchantment.cotv.enchantment_cost":"Requires: %s%s, %s %s",
+    "enchantment.cotv.icon":"%s\uc014%s ",
     "enchantment.cotv.shard_icon":"\uc013",
     "enchantment.cotv.void_strike":"Void Strike %s",
     "enchantment.cotv.pain_cycle":"Pain Cycle %s",
-    "enchantment.cotv.vampirism":"Vampirism %s"
+    "enchantment.cotv.vampirism":"Vampirism %s",
+    "enchantment.cotv.vampirism.icon":"\uc000",
+    "enchantment.cotv.pain_cycle.icon":"\uc001",
+    "enchantment.cotv.void_strike.icon":"\uc002",
+    "enchantment.cotv.thundering.icon":"\uc003"
     
 }

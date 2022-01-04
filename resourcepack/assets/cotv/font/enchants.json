@@ -1,0 +1,20 @@
+{
+  "providers":[
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/romans.png",
+      "ascent": 4,
+      "height": 6,
+      "chars":["123456789"]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/enchantments.png",
+      "ascent": 10,
+      "height": 12,
+      "chars":[
+        "\uc000\uc001\uc002\uc003\uc004\uc005\uc006\uc007\uc008\uc009"
+      ]
+    }
+  ]
+}

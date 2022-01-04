@@ -15,6 +15,7 @@
       {"predicate": {"custom_model_data": 6901006},"model": "cotv:item/shadowblight_bucket"},
       {"predicate": {"custom_model_data": 6901007},"model": "cotv:block/endric_altar"},
       {"predicate": {"custom_model_data": 6901008},"model": "cotv:item/fractaleaf_petal"},
-      {"predicate": {"custom_model_data": 6901009},"model": "cotv:item/shadowblight_shard"}
+      {"predicate": {"custom_model_data": 6901009},"model": "cotv:item/shadowblight_shard"},
+      {"predicate": {"custom_model_data": 6901010},"model": "cotv:item/mystic_book"}
   ]
   }

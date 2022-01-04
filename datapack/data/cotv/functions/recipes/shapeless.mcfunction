@@ -1,3 +1,6 @@
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 3 if data storage smithed:crafter root.temp{shapeless_crafting_input:[{Count:1b,id:"minecraft:chorus_fruit"},{Count:1b,tag:{smithed:{id:"cotv:shadowblight_bucket"}}},{Count:1b,id:"minecraft:slime_ball"}]} run loot replace block ~ ~ ~ container.16 loot cotv:items/shadowblight_clot
 
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 2 if data storage smithed:crafter root.temp{shapeless_crafting_input:[{id:"minecraft:chain_command_block",Count:1b,tag:{smithed:{id:"cotv:shadowblight_shard"}}},{Count:8b,id:"minecraft:arrow"}]} run loot replace block ~ ~ ~ container.16 loot cotv:items/shadowblight_arrow
+
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 2 if data storage smithed:crafter root.temp{shapeless_crafting_input:[{item_tag:["#cotv:enchantable"]},{tag:{smithed:{id:"cotv:mystic_book"}}}]} if data storage smithed:crafter root.temp.shapeless_crafting_input[{tag:{smithed:{id:"cotv:mystic_book"}}}].tag.cotv.StoredEnchantments unless data storage smithed:crafter root.temp.shapeless_crafting_input[{item_tag:["#cotv:enchantable"]}].tag.cotv.Enchantments run function cotv:recipes/enchant/main
+

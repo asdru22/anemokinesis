@@ -47,6 +47,15 @@
       "ascent": 10,
       "height": 12,
       "chars":["\uc013"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cotv:gui/negative_space.png",
+      "ascent": -32768,
+      "height": -8,
+      "chars": [
+        "\uc014"
+      ]
     }
   ]
 }
