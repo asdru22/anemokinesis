@@ -31,7 +31,7 @@
               },
               "ops": [
                 {
-                  "source": "root.temp.ench",
+                  "source": "root.temp.merge.out",
                   "target": "cotv.StoredEnchantments",
                   "op": "replace"
                 }
@@ -49,7 +49,7 @@
                     "italic": false
                   },
                   {
-                    "nbt": "root.temp.ench[].display",
+                    "nbt": "root.temp.merge.out[].display",
                     "storage": "cotv:storage",
                     "interpret": true,
                     "separator": ""
