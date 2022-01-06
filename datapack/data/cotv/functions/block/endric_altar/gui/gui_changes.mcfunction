@@ -1,1 +1,0 @@
-execute if predicate cotv:block/endric_altar_has_gui unless predicate cotv:block/endric_altar_remove_item if entity @s[tag=cotv.block.endric_altar.can_enchant] run function cotv:block/endric_altar/gui/buttons/init

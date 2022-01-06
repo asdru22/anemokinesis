@@ -5,7 +5,7 @@
         "blocks": [
           "minecraft:barrel"
         ],
-        "nbt": "{Items:[{Slot:2b},{Slot:9b},{Slot:12b},{Slot:20b}]}"
+        "nbt": "{Items:[{Slot:4b},{Slot:20b}]}"
       }
     }
   }

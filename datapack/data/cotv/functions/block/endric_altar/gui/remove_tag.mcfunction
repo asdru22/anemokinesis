@@ -1,1 +1,0 @@
-tag @e[type=armor_stand,tag=cotv.block.endric_altar,tag=cotv.block.endric_crafter.ignore_update] remove cotv.block.endric_crafter.ignore_update

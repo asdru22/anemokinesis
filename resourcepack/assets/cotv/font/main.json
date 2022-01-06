@@ -56,6 +56,13 @@
       "chars": [
         "\uc014"
       ]
+    },
+    {
+      "type":"bitmap",
+      "file":"cotv:gui/void_tolerance_icon.png",
+      "ascent": 10,
+      "height": 12,
+      "chars":["\uc015"]
     }
   ]
 }

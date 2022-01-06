@@ -1,7 +1,12 @@
 {
     "pack.cotv": "Call of the Void",
-    "pack.cotv.desc": "ballin",
+    "pack.cotv.dummyesc": "ballin",
     "cotv.void_tolerance": "Void Tolerance",
+    "void_tolerance.cotv.icon":"\uc015",
+
+    "text.cotv.too_high":"Block is not at Y below 0!",
+    "text.cotv.no_book":"No book inserted!",
+    "text.cotv.no_shards":"Add Shadowblight Shards!",
 
     "item.cotv.echoing_matter":"Echoing Matter",
     "item.cotv.echoing_residue":"Echoing Residue",
@@ -22,7 +27,7 @@
     "block.cotv.void_campfire":"Void Campfire",
     "block.cotv.fractal_junction":"Fractal Junction",
     "block.cotv.endric_altar":"Endric Altar",
-    "block.cotv.endric_altar.gui":"\uc010\uc012\uc011%s",
+    "block.cotv.endric_altar.name":"%s%s at Y= %s -> %s%s",
     "block.cotv.endric_altar.void_tolerance_left":"%s's Void Tolerance: %s",
 
     "death.cotv.void_campfire":"%s's soul was set ablaze by %s",

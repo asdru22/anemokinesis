@@ -1,2 +1,2 @@
-setblock ~ ~ ~ barrel[facing=up]{CustomName:'{"translate":"block.cotv.endric_altar.gui","font":"cotv:main","color":"white","with":[{"translate":"block.cotv.endric_altar","color":"#3F3F3F","font":"minecraft:default"}]}'}
-execute align xyz run summon armor_stand ~.5 ~ ~.5 {Tags:["cotv.block.endric_altar","cotv.entity","smithed.block","smithed.entity","smithed.block","smithed.armor_stand"],Invisible:1b,Invulnerable:1b,Marker:1b,ArmorItems:[{},{},{},{Count:1b,id:"minecraft:chain_command_block",tag:{CustomModelData:6901007}}]}
+execute align xyz run function cotv:block/endric_altar/summon
+data merge block ~ ~ ~ {Items:[],Lock:"%%%As6as6dasdjgfakmasf",CustomName:'""'}

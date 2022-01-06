@@ -2,6 +2,7 @@
 	"description": "All entities",
 	"values": [
 		"#cotv:undead",
+		"#cotv:villagers",
 		"minecraft:bat",
 		"minecraft:chicken",
 		"minecraft:cod",
@@ -22,8 +23,6 @@
 		"minecraft:strider",
 		"minecraft:turtle",
 		"minecraft:tropical_fish",
-		"minecraft:villager",
-		"minecraft:wandering_trader",
 		"minecraft:bee",
 		"minecraft:dolphin",
 		"minecraft:polar_bear",
