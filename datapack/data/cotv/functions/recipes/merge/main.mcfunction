@@ -1,3 +1,4 @@
+say merge
 tellraw @p "-------"
 #tellraw @p {"nbt":"root.temp.shapeless_crafting_input","storage":"smithed:crafter"}
 data modify storage cotv:storage root.temp.merge.right set from storage smithed:crafter root.temp.shapeless_crafting_input[0].tag.cotv.StoredEnchantments

@@ -4,10 +4,12 @@ scoreboard objectives add cotv.mob_id dummy
 scoreboard objectives add cotv.dummy dummy
 scoreboard objectives add cotv.void_tolerance dummy
 scoreboard objectives add cotv.use_bucket minecraft.used:minecraft.bucket
+scoreboard players set const.-10 cotv.dummy -10
 scoreboard players set const.2 cotv.dummy 2
 scoreboard players set const.3 cotv.dummy 3
 scoreboard players set const.4 cotv.dummy 4
 scoreboard players set const.5 cotv.dummy 5
+scoreboard players set const.6 cotv.dummy 6
 scoreboard players set const.10 cotv.dummy 10
 scoreboard players set const.16 cotv.dummy 16
 scoreboard players set const.20 cotv.dummy 20

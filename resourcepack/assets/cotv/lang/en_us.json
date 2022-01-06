@@ -4,7 +4,7 @@
     "cotv.void_tolerance": "Void Tolerance",
     "void_tolerance.cotv.icon":"\uc015",
 
-    "text.cotv.too_high":"Block is not at Y below 0!",
+    "text.cotv.too_high":"Block is not below Y= 0!",
     "text.cotv.no_book":"No book inserted!",
     "text.cotv.no_shards":"Add Shadowblight Shards!",
 

@@ -1,4 +1,4 @@
-say add shard
+playsound minecraft:block.amethyst_cluster.break block @a[distance=..5] ~ ~ ~ 2 1.5
 scoreboard players add t cotv.dummy 1
 execute store result entity @s ArmorItems[3].tag.cotv.shards int 1 run scoreboard players get t cotv.dummy
 
