@@ -19,7 +19,8 @@
             "score": {
               "name": "height",
               "objective": "cotv.dummy"
-            }
+            },
+            "color":"gold"
           },
           {
             "score": {

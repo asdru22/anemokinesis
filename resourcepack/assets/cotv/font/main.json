@@ -44,7 +44,7 @@
     {
       "type":"bitmap",
       "file":"cotv:item/shadowblight_shard.png",
-      "ascent": 10,
+      "ascent": 9,
       "height": 12,
       "chars":["\uc013"]
     },
@@ -60,7 +60,7 @@
     {
       "type":"bitmap",
       "file":"cotv:gui/void_tolerance_icon.png",
-      "ascent": 10,
+      "ascent": 9,
       "height": 12,
       "chars":["\uc015"]
     }
