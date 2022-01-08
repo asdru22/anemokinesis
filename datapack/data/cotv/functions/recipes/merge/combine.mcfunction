@@ -1,8 +1,14 @@
-say same!
-scoreboard players remove .j cotv.dummy 1
-scoreboard players set .jj cotv.dummy -1
-scoreboard players set #bool cotv.dummy 1
-data modify storage cotv:storage root.temp.merge.out append from storage cotv:storage root.temp.merge.right[-1]
-execute store result score #temp cotv.dummy run data get storage cotv:storage root.temp.merge.right[-1].lvl
-execute store result score #temp1 cotv.dummy run data get storage cotv:storage root.temp.merge.in.lvl
-execute store result storage cotv:storage root.temp.merge.out[-1].lvl int 1.0 run scoreboard players operation #temp cotv.dummy > #temp1 cotv.dummy
+# Debug stuff
+data merge storage smithed:log {message:'["",{"color":"green","text":"↪ true"}]',level:1,type:'INFO'}
+function #smithed:core/pub/technical/tools/log
+
+# Say we found and are combining to the main for_temp loop
+scoreboard players set #wasFound cotv.dummy 1
+
+# Store both lvls
+execute store result score #enchLvl cotv.dummy run data get storage cotv:storage root.temp.merge.temp[-1].lvl
+execute store result score #copyLvl cotv.dummy run data get storage cotv:storage root.temp.merge.temp1[-1].lvl
+
+# If the new data is greater, make that the one present in the list
+execute if score #enchLvl cotv.dummy > #copyLvl cotv.dummy run data modify storage cotv:storage root.temp.merge.temp1[-1].lvl set from storage cotv:storage root.temp.merge.temp[-1].lvl
+
