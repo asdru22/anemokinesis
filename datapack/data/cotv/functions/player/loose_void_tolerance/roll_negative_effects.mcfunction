@@ -1,3 +1,5 @@
+playsound minecraft:block.end_portal.spawn player @s ~ ~ ~ 2 2
+tag @s add cotv.void_tolerance.debuff
 tag @s remove cotv.void_tolerance.debuff.shulker
 tag @s remove cotv.void_tolerance.debuff.eye
 tag @s remove cotv.void_tolerance.debuff.dragon

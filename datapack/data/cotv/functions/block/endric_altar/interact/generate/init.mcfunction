@@ -1,7 +1,7 @@
 execute store result score cost cotv.dummy run data get entity @s ArmorItems[3].tag.cotv.cost
 execute store result score shards cotv.dummy run data get entity @s ArmorItems[3].tag.cotv.shards
 
-data modify storage cotv:storage root.temp.merge.out set value []
+data modify storage cotv:storage root.temp.merge.final set value []
 execute if score shards cotv.dummy matches 1..2 run scoreboard players set enchs cotv.dummy 1
 execute if score shards cotv.dummy matches 3..6 run scoreboard players set enchs cotv.dummy 2
 execute if score shards cotv.dummy matches 7..11 run scoreboard players set enchs cotv.dummy 3

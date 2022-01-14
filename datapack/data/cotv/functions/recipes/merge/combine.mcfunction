@@ -11,4 +11,3 @@ execute store result score #copyLvl cotv.dummy run data get storage cotv:storage
 
 # If the new data is greater, make that the one present in the list
 execute if score #enchLvl cotv.dummy > #copyLvl cotv.dummy run data modify storage cotv:storage root.temp.merge.temp1[-1].lvl set from storage cotv:storage root.temp.merge.temp[-1].lvl
-
